@@ -4,7 +4,7 @@
 
 1. Laden Sie die ZIP-Datei herunter:
    ```shell
-   https://github.com/AlphaattackGermany/Anti-CrashPlugin/files/CrashGuard.zip
+   https://github.com/AlphaattackGermany/Anti-CrashPlugin/blob/main/CrashGuard.zip
    ```
 
 2. Entpacken Sie die ZIP-Datei im Explorer.
